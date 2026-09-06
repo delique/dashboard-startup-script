@@ -15,5 +15,4 @@ I am suggesting the use of task scheduler rather than startup folder to allow fo
 3. Name it something relevant such as "Dashboard Startup"
 4. Set the trigger to "When the computer starts"
 5. Add the startup.bat and its full path to the Action
-6. Enable "Run with highest privileges"
-7. Click finish
+6. Click finish
